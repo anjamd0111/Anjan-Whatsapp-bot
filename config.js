@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
   botName: process.env.BOT_NAME || 'ANJAN MD',
-  ownerNumber: process.env.OWNER_NUMBER || '8801000000000',
+  ownerNumber: process.env.OWNER_NUMBER || '919242172548',
   ownerName: process.env.OWNER_NAME || 'Anjan Dhar',
   prefix: process.env.PREFIX || '.',
   mode: process.env.MODE || 'public', // public | private
